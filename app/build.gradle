@@ -5,12 +5,14 @@ plugins {
 }
 
 android {
-    compileSdkVersion 31
+    namespace 'com.chaquo.myapplication'
+
+    compileSdkVersion 33
 
     defaultConfig {
         applicationId "com.chaquo.myapplication"
         minSdkVersion 21
-        targetSdkVersion 31
+        targetSdkVersion 33
         versionCode 1
         versionName "1.0"
 
@@ -39,7 +41,6 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
-    namespace 'com.chaquo.myapplication'
 }
 
 dependencies {
