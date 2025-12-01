@@ -14,5 +14,7 @@
         </item>
         <!-- Customize your theme here. -->
     </style>
+
+    <!-- This may be overridden in other "values" directories. -->
     <style name="Theme.MyApplication" parent="Theme.MyApplication.Base"/>
 </resources>
