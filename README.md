@@ -1,8 +1,7 @@
 # Chaquopy Matplotlib demo
 
-This is the source code of the app demonstrated in my [interview with Eric
-Decanini](https://www.youtube.com/watch?v=X0JNxGay7JY). It uses
-[Chaquopy](https://chaquo.com/chaquopy/) to include Python code and libraries in an Android app.
+This is a simple app which uses [Chaquopy](https://chaquo.com/chaquopy/) to include
+Python code and libraries in an Android app.
 
 * The [top-level](https://github.com/chaquo/chaquopy-matplotlib/blob/master/build.gradle) and 
   [module-level](https://github.com/chaquo/chaquopy-matplotlib/blob/master/app/build.gradle) 
